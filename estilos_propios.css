@@ -16,6 +16,10 @@ body {
   background-image: url(./img/imgAlmuerzosyCenas.jpg);
 }
 
+.bodydesayunoymerienda{
+  background-image: url(./img/imgDesayunosyMeriendas.jpg);
+}
+
 /* SECCION CONTACTO DE acerca_de.html */
 .bg-aside1 {
   background: #494f6392;
