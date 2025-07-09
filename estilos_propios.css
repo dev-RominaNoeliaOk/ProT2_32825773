@@ -1,3 +1,17 @@
+/* BODY */
+body {
+  background-position: center;
+  background-repeat: active ;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  height: : 100vh;
+}
+
+.bodyprincipal{
+  background-image: url(./img/imgRecetas.jpg);
+}
+
 /* SECCION CONTACTO DE acerca_de.html */
 .bg-aside1 {
   background: #494f6392;
