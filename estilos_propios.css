@@ -20,6 +20,11 @@ body {
   background-image: url(./img/imgDesayunosyMeriendas.jpg);
 }
 
+.bodyregistrarse{
+  background-image: url(./img/imgRecetas.jpg);
+}
+
+
 /* SECCION CONTACTO DE acerca_de.html */
 .bg-aside1 {
   background: #494f6392;
